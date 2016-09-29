@@ -62,9 +62,9 @@
 		(
   	 	pkid 			text,
    		row_created_ 	timestamp,
-    	row_modified_ 	timestamp,
-    	row_username_ 	text,
-    	name_ 			text,
+    	           row_modified_ 	timestamp,
+    	               row_username_ 	text,
+    	               name_ 			text,
 		manufacturer_ 	text,
 		model_ 			text,
 		department_ 	text,
@@ -75,7 +75,7 @@
 		quantity_ 		integer,
 		price_ 			integer,
 		owner_ 			text,
-		taxable_		text,
+		taxable_		text
 		);
 
 
